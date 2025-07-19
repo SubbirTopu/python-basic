@@ -26,3 +26,4 @@ print(name + " has scored", cgpa, "in his bachelor degree.")
 
 print(f"My name is: {name}")
 print(f"My age is:{age}")
+print(f"My mane is: {name} and my brother name is:{name}")
