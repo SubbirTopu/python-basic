@@ -23,3 +23,6 @@ print(name + " lives in Dhaka.")
 print("He is currently", age, "years old.")
 print("At the age of", age,  name + " started to learn python.")
 print(name + " has scored", cgpa, "in his bachelor degree.")
+
+print(f"My name is: {name}")
+print(f"My age is:{age}")
